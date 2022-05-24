@@ -4,4 +4,3 @@ maito
 makkara
 ruisleipä
 hernekeitto
-kalja
