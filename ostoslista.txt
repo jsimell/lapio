@@ -4,3 +4,4 @@ maito
 makkara
 ruisleipä
 hernekeitto
+kurkku
